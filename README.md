@@ -11,4 +11,4 @@ All the machine learning algorithms that I have learnt from Youtube sourced by S
 - Comparing with Random Forest, KNN (n=3, n=7)
 
 ### Logistic Regression
-- Using dataset load_digits from sklearn
+- Using dataset 'digits' from sklearn

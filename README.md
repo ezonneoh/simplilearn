@@ -15,3 +15,6 @@ All the machine learning algorithms that I have learnt from Youtube sourced by S
 
 ### Random Forest
 - Using dataset 'iris' from sklearn
+
+### KNN 
+- Objective: Predict whether a person will be diagnosed with diabetes or not

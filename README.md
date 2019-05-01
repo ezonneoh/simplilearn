@@ -12,3 +12,6 @@ All the machine learning algorithms that I have learnt from Youtube sourced by S
 
 ### Logistic Regression
 - Using dataset 'digits' from sklearn
+
+### Random Forest
+- Using dataset 'iris' from sklearn

@@ -18,3 +18,6 @@ All the machine learning algorithms that I have learnt from Youtube sourced by S
 
 ### KNN 
 - Objective: Predict whether a person will be diagnosed with diabetes or not
+
+### SVM
+

@@ -1,9 +1,8 @@
 # Youtube - Simplilearn
 All the machine learning algorithms that I have learnt from Youtube sourced by Simplilearn.
 
-
-## Supervised Learning
 ***
+## Supervised Learning
 
 ### Regression
 

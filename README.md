@@ -21,3 +21,8 @@ All the machine learning algorithms that I have learnt from Youtube sourced by S
 
 ### SVM
 
+### Naive Bayes Classifier
+
+
+***
+## Unsupervised Learning

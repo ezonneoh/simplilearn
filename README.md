@@ -29,3 +29,8 @@ All the machine learning algorithms that I have learnt from Youtube sourced by S
 ### K-Means Clustering
 - Clustering data
 - Use Case: Colour Compression on Images
+
+
+***
+## Neural Network
+- MNIST data
